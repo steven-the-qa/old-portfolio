@@ -1,0 +1,19 @@
+.navbar{
+letter-spacing: 1.5px;
+padding-bottom: 20px;
+padding-top: 20px;
+}
+
+h1{
+letter-spacing: 2px;
+word-spacing: 10px;
+text-align: center;
+}
+#navi{
+  border: 0;
+  margin: 0;
+}
+p {
+  font-family: 'Merriweather';
+  color: #FDB73F;
+}
