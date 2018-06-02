@@ -19,4 +19,6 @@ p {
 #profile {
  margin-top: 3px;
  position: relative;
+ height: 75%;
+ width: 75%;
 }
